@@ -1,5 +1,5 @@
 # ai_writer_summary
-利用deepseep进行智能写作与文章总结
+利用deepseek进行智能写作与文章总结
 
 ## Features
 智能写作：
